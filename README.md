@@ -1,5 +1,3 @@
-## Hello, I'm Gabriel!
-
 <!--
 **araujo88/araujo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,53 +13,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💻 Learning Backend development
-
-- 🌱 I’m currently learning elixir and typescript
-- 💬 Ask me about nothing, lol.
-
-<hr/>
-
- ### Languages
- 
-<div>
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg""/>
-</div>
-
-<hr/>
-
- ### Frameworks / Libraries
-
-<div>
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg"/>
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg"/>
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg"/>
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phoenix/phoenix-original.svg" />
-</div>
-
-<hr/>
-
- ### Tools
-
-<div>
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/>
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg"/>
-</div>
-
-<hr />
-
-### Stats
-
-<div>
- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gintaxias&layout=compact&show_icons=true&theme=dark" />
- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gintaxias&layout=compact&langs_count=8&theme=dark&hide=css,scss,html,tex,makefile,ShaderLab,HLSL" />
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<h3>My name is Gabriel and i am studying to be a Backend developer </h3>
+<p>
+- 🔭 Now i'm working as Intern on Procuradoria Geral do Estado do Ceará
+</p>
+<p>
+- 🌱 Studying Elixir, Typescript and Vue
+</p>
+<div style = "display: inline-block">
+ <h3>Stats</h3>
+ <div> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gintaxias&layout=compact&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gintaxias&layout=compact&langs_count=8&theme=dark&hide=css,scss,html,tex,makefile,ShaderLab,HLSL" />
+ </div>
+ <br>
+ <div style = "display: inline-block">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg""/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phoenix/phoenix-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'>
+  <img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg'>
+  <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg"/>
+ </div>
 </div>
 
 
