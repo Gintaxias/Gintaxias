@@ -1,6 +1,4 @@
 <!--
-**araujo88/araujo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -21,13 +19,6 @@ Here are some ideas to get you started:
 <p>
 - 🌱 Studying Elixir, Typescript and Vue
 </p>
-<div style = "display: inline-block">
- <h3>Stats</h3>
- <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gintaxias&layout=compact&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gintaxias&layout=compact&langs_count=8&theme=dark&hide=css,scss,html,tex,makefile,ShaderLab,HLSL" />
- </div>
- <br>
  <div style = "display: inline-block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -42,6 +33,13 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg"/>
  </div>
+<div style = "display: inline-block">
+ <h3>Stats</h3>
+ <div> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gintaxias&layout=compact&show_icons=true&theme=dark" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gintaxias&layout=compact&langs_count=8&theme=dark&hide=css,scss,html,tex,makefile,ShaderLab,HLSL" />
+ </div>
+ <br>
 </div>
 
 
