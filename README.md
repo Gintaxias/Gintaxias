@@ -11,36 +11,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
-<h3>My name is Gabriel and i am studying to be a Backend developer </h3>
-<p>
-- 🔭 Now i'm working as Intern on Procuradoria Geral do Estado do Ceará
-</p>
-<p>
-- 🌱 Studying Elixir, Typescript and Vue
-</p>
- <div style = "display: inline-block">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg""/>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phoenix/phoenix-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'>
-  <img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg'>
-  <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg"/>
- </div>
-<div style = "display: inline-block">
- <h3>Stats</h3>
- <div> 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gintaxias&layout=compact&show_icons=true&theme=dark" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gintaxias&layout=compact&langs_count=8&theme=dark&hide=css,scss,html,tex,makefile,ShaderLab,HLSL" />
- </div>
- <br>
+<div align="center">
+	<img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
+	<h3>My name is Gabriel and i am studying to be a Backend developer </h3>
 </div>
+	
+<div align="center">
+
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=purple&color=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=orange&color=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=blue&color=black)
+
+</div>
+<div align="center">
+	<div align="left">
+	
+ - Working as Intern on PGE-CE using Typescript and Angular
+ - Currently learning Elixir, Typescript and Java
+	</div>
+</div>
+
+### Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=gintaxias&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gintaxias&layout=donut&theme=midnight-purple&hide_border=true" /> |
+| ------------- | ------------- |
 
 
 
