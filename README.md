@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div align="center">
 	<div align="left">
 	
- - Working as Intern on PGE-CE using Typescript and Angular
+ - Now i'm working as Intern on Procuradoria Geral do Estado do Ceará using Typescript and Angular
  - Currently learning Elixir, Typescript and Java
 	</div>
 </div>
