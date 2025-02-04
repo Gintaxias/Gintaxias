@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 	<div align="left">
- 	- Now i'm working as Intern on RM Sistemas using Java
+ 	- Now i'm working as Intern on RM Sistemas using Java 
+	<br>
  	- Currently learning Elixir, Typescript and Java
 	</div>
 </div>
